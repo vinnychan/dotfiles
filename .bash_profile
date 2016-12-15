@@ -55,6 +55,8 @@
 #   2.  MAKE TERMINAL BETTER
 #   -----------------------------
 
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+
 alias cp='cp -iv'                           # Preferred 'cp' implementation
 alias mv='mv -iv'                           # Preferred 'mv' implementation
 alias mkdir='mkdir -pv'                     # Preferred 'mkdir' implementation
